@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Responsive_Webside_Template/1.0.0": {
+        "runtime": {
+          "Responsive_Webside_Template.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Responsive_Webside_Template/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
